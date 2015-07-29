@@ -6,6 +6,8 @@ The FreeRPG Project is an idea to create a totally open-source and free RPG from
 
 [FreeRPG Project Trello](https://trello.com/b/2BrEPQ2C/freerpg-project-planning)
 
+[FreeRPG-Torque3D Repo](https://gitlab.com/FreeRPG/FreeRPG-Torque3D)
+
 #### How do I get set up? ####
 
 If you simply want to play FreeRPG then all you need to do is clone this repo with the command below:
