@@ -1,0 +1,12 @@
+#############
+## FreeRPG
+#############
+console.log
+.gitignore~
+main.cs.in
+runTests.cs
+FreeRPG.torsion
+tools/settings.xml
+/.project
+shaders/procedural/*
+core/fonts/*
