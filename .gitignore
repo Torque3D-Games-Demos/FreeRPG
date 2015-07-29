@@ -1,6 +1,7 @@
 #############
 ## FreeRPG
 #############
+*.cached.dts
 console.log
 .gitignore~
 main.cs.in
