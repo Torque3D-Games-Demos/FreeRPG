@@ -11,3 +11,8 @@ tools/settings.xml
 /.project
 shaders/procedural/*
 core/fonts/*
+FreeRPG_DEBUG.exe
+FreeRPG_DEBUG DLL.lib
+FreeRPG_DEBUG DLL.exp
+FreeRPG_DEBUG DLL.dll
+FreeRPG.torsion.opt
